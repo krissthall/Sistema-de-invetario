@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USUARIO/OneDrive/Desktop/Java/invetarioJDBC/src/vista/MenuCliente.java</file>
+            <file>file:/C:/Users/USUARIO/OneDrive/Desktop/Java/invetarioJDBC/src/vista/Añadirproductos.java</file>
+            <file>file:/C:/Users/USUARIO/OneDrive/Desktop/Java/invetarioJDBC/src/modelo/Usuarios.java</file>
+            <file>file:/C:/Users/USUARIO/OneDrive/Desktop/Java/invetarioJDBC/src/dao/ProductoDAO.java</file>
+            <file>file:/C:/Users/USUARIO/OneDrive/Desktop/Java/invetarioJDBC/src/vista/verusuarios.java</file>
+            <file>file:/C:/Users/USUARIO/OneDrive/Desktop/Java/invetarioJDBC/src/conexion/conexionDB.java</file>
+            <file>file:/C:/Users/USUARIO/OneDrive/Desktop/Java/invetarioJDBC/src/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/USUARIO/OneDrive/Desktop/Java/invetarioJDBC/src/vista/actualizarusuarios.java</file>
+            <file>file:/C:/Users/USUARIO/OneDrive/Desktop/Java/invetarioJDBC/src/vista/eliminarusuario.java</file>
+            <file>file:/C:/Users/USUARIO/OneDrive/Desktop/Java/invetarioJDBC/src/vista/MenuAdministrador.java</file>
+            <file>file:/C:/Users/USUARIO/OneDrive/Desktop/Java/invetarioJDBC/src/modelo/Producto.java</file>
+            <file>file:/C:/Users/USUARIO/OneDrive/Desktop/Java/invetarioJDBC/src/vista/loginGUI.java</file>
+        </group>
+    </open-files>
+</project-private>
